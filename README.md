@@ -1,2 +1,3 @@
 # Fitness Website
-Landing Page
+Landing Page<br/>
+https://dineshnalli1011.github.io/BRUCE_FITNESS/
